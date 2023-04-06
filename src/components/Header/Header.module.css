@@ -1,0 +1,23 @@
+.Header {
+    background: #fafafa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding: 20px;
+}
+
+.Inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 760px;
+    max-width: 100%;
+}
+
+.Right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
