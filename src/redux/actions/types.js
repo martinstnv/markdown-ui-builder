@@ -1,0 +1,2 @@
+export const GET_ROUTING = "GET_ROUTING";
+export const GET_NAVIGATION = "GET_NAVIGATION";
